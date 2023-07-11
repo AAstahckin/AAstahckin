@@ -1,16 +1,31 @@
-### Hi there 👋
+# Всем привет! 👋 Меня зовут Алексей
 
-<!--
-**AAstahckin/AAstahckin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Связь со мной 
+<a href="https://t.me/Aleksey_Astashkin">
+    <img width="6%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
+</a>
 
-Here are some ideas to get you started:
+### ⚙&nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAstahckin&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAstahckin&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAstahckin&theme=algolia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="media/logo/Idea.svg">
+<img width="6%" title="Java" src="media/logo/Java.svg">
+<img width="6%" title="Allure Report" src="media/logo/Allure.svg">
+<img width="5%" title="Allure TestOps" src="media/logo/Allure_TO.svg">
+<img width="6%" title="Gradle" src="media/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="media/logo/Junit5.svg">
+<img width="6%" title="Selenide" src="media/logo/Selenide.svg">
+<img width="6%" title="RestAssured" src="media/logo/RestAssured.svg">
+<img width="6%" title="GitHub" src="media/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
+<img width="6%" title="Telegram" src="media/logo/Telegram.svg">
+<img width="5%" title="Jira" src="media/logo/Jira.svg">
+</p>
+
+### Проекты:
+[![REST API Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_api&bg_color=DEG,000010,000040)]
+
+[![UI Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_auto_ru&bg_color=DEG,000010,000040)]
