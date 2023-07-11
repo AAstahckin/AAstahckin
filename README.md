@@ -26,6 +26,6 @@
 </p>
 
 ### Проекты:
-[![REST API Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_api&bg_color=DEG,000010,000040)]
+[![REST API Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_api&bg_color=DEG,000010,000040)](https://github.com/AAstahckin/qa_guru_19_api)
+[![UI Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_auto_ru&bg_color=DEG,000010,000040)](https://github.com/AAstahckin/qa_guru_19_auto_ru)
 
-[![UI Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_auto_ru&bg_color=DEG,000010,000040)]
