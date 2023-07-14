@@ -1,8 +1,15 @@
 # Всем привет! 👋 Меня зовут Алексей
 
-### Связь со мной 
+- 👨‍💻 Работаю тестировщиком более 5 лет, последние 2 года являюсь лидом тестирования на проекте
+- 🌱 Стремлюсь к постоянному профессиональному развитию
+- 👩‍🎓 На текущий момент изучаю JAVA и автоматизированное тестирование, для грамотного выстраивания процессов по автоматизации на проекте
+- 📫 Как найти меня:
+
 <a href="https://t.me/Aleksey_Astashkin">
     <img width="6%" src="media/logo/Telegram.svg" alt="Telegram Badge"/>
+</a>
+<a href="mailto:ALVAstashkin91@yandex.ru">
+    <img width="6%" src="media/logo/Yandex_Mail_icon.png" alt="Yandex Mail"/>
 </a>
 
 ### ⚙&nbsp;GitHub Analytics
@@ -25,7 +32,6 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-### Проекты:
-[![REST API Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_api&bg_color=DEG,000010,000040)](https://github.com/AAstahckin/qa_guru_19_api)
-[![UI Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_auto_ru&bg_color=DEG,000010,000040)](https://github.com/AAstahckin/qa_guru_19_auto_ru)
-
+| Курс                        | Дипломный проект                                                                                                                                                                                                                                                                                                                                                                                                              | Сертификат                          |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------| 
+| [QA Guru](https://qa.guru/) | [![REST API Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_api&theme=algolia)](https://github.com/AAstahckin/qa_guru_19_api) [![UI Automation in Java](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AAstahckin&repo=qa_guru_19_auto_ru&theme=algolia)](https://github.com/AAstahckin/qa_guru_19_auto_ru) | я правда надеюсь, что получу его :) |
